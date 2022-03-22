@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uskhaan
-- 👀 I’m interested in Developing Web Applications.
-- 🌱 I’m currently learning Cloud Computing.
-- 💞️ I’m looking to collaborate on any exciting web dev project.
+- 👀 I’m interested in Developing Mobile Applications.
+- 🌱 I’m currently learning Reacy-Native.
+- 💞️ I’m looking to collaborate on any exciting mobile dev project.
 - 📫 You can reach me at umarskhaan@gmail.com
 
 <!---
