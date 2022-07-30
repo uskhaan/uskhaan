@@ -56,8 +56,14 @@
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="60">
+    </td>
     
-</tr>    
+</tr>
+    <tr> <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" height="40" width="60">
+    </td></tr>
 </table>
 
 <br />
